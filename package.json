@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon - UCF Coding Bootcamp Week 12 Homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadieb/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadieb/bamazon/issues"
+  },
+  "homepage": "https://github.com/cadieb/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  }
+}
